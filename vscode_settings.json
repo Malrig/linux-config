@@ -150,8 +150,7 @@
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "chat.agent.maxRequests": 50,
-    "gitlens.ai.model": "vscode",
-    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
     "debug.allowBreakpointsEverywhere": true,
-    "github.copilot.nextEditSuggestions.enabled": true
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "claudeCode.preferredLocation": "panel"
 }
